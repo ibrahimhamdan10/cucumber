@@ -24,5 +24,7 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"}
 )
 public class FailedRunner {
-
+    public static void main(String[] args) {
+        System.out.println("ibrahim");
+    }
 }
