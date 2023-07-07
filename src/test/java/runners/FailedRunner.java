@@ -25,6 +25,6 @@ import org.junit.runner.RunWith;
 )
 public class FailedRunner {
     public static void main(String[] args) {
-        System.out.println("ibrahim");
+        System.out.println("ghada");
     }
 }
